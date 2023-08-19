@@ -66,7 +66,7 @@ public class HelloWorld {
 
 At the end of course ... Anyways, I got into Golang as a initiative to learn by myself some programming concepts, I made a very crappy bot and it was go through after countless updates, rewritting, and it was a project that I even got a help with a skilled friend. 
 
-!["Placeholder image"](/imagem-1.png)
+!["Placeholder image"](https://raw.githubusercontent.com/mako8231/makos_blog/main/static/imagem-1.png)
 <!--Put your own art here dummy-->
 
 Besides that project, I got into game development early too. My first game engine I've worked on and making silly projects was Game Maker **Lite**, yeah. And I coded something? Nah, I just stuffed a bunch of events and made the most atrocious thing that was ever made, and sadly I don't have the project... Because it was hilarious.
@@ -82,11 +82,11 @@ In the meantime, I studied pixel art. While digging around, I stumbled upon a Re
 !["Leimu :D"](https://cdn.discordapp.com/attachments/231829187776741377/518874607563046914/Captura_de_tela_de_2018-12-02_16.42.04.png)
 
 And some animation:
-![""](/idle-3.gif)
+![""](https://raw.githubusercontent.com/mako8231/makos_blog/main/static/idle-3.gif)
 
 About the time studying a lot of GDscript and Pixel art, I finally made a project that was made with my very own art 😊 
 
-!["Late Stage Game"](/imagem-3.png)
+!["Late Stage Game"](https://raw.githubusercontent.com/mako8231/makos_blog/main/static/imagem-3.png)
 
 Sadly I don't have any other images... But I think I can find the whole project file, eventually I'll write about this project in particular, because it reached a very interesting maturing process. 
 
