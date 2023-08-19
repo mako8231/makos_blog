@@ -69,15 +69,15 @@ When I'm at the end of course, I started studying Golang as a initiative to lear
 !["Placeholder image"](https://raw.githubusercontent.com/mako8231/makos_blog/main/static/imagem-1.png)
 <!--Put your own art here dummy-->
 
-Besides that project, I got into game development early too. My first game engine I've worked on and making silly projects was Game Maker **Lite**, yeah. And I coded something? Nah, I just stuffed a bunch of events and made the most atrocious thing that was ever made, and sadly I don't have the project... Because it was hilarious.
+Going back at the time, when I was 14~15, I started my journey with game development. The first game engine I've worked on was Game Maker **Lite**. And you might wondering if I coded something... Nah, I just stuffed a bunch of events and made the most atrocious thing that was ever made (or the most hilarious, it's just a way of view), and sadly I don't have the project... Because it was hilarious.
 
-Subsequently, I started to using RPG Maker VX Ace, I did a lot of cringy stuff and I'll elaborate any futher. But I got the first grasp of OOP, even not knowing much about Ruby and it's scripting language (RGSS). 
+Subsequently, I started using RPG Maker VX Ace, I did a lot of cringy stuff and I'll not elaborate any futher. But I also got the first grasp of OOP, even not knowing much about Ruby and it's scripting language (RGSS). 
 
 Everything went cold about game development until 2017~2018, the year that I discovered Godot... 
 
 [Picture about godot]
 
-In the meantime, I studied pixel art. While digging around, I stumbled upon a Reimu artwork:
+In the meantime, I also studied pixel art. While digging around, I stumbled upon a Reimu artwork:
 
 !["Leimu :D"](https://cdn.discordapp.com/attachments/231829187776741377/518874607563046914/Captura_de_tela_de_2018-12-02_16.42.04.png)
 
@@ -92,7 +92,7 @@ Sadly I don't have any other images... But I think I can find the whole project 
 
 ## And what now? 
 
-Of course I've skipped a lot of projects, ideas and I just gave a brief introduction of myself. And I had going trought a lot a things, nowadays, I got a really liking into C/C++, yeah, I'm not saying that I became a huge fan of low level programming, but C really captivated me, the fact there's a old ass programming language that is still used util this day, have a high performance and a lot of control. 
+Of course I've skipped a lot of projects, ideas and I just gave a brief introduction of myself. And I had going trought a lot a things, nowadays, I got a really liking into C/C++, yeah, I'm not saying that I became a huge fan of low level programming, but C really captivated me, the fact there's a old ass programming language that is still used until this day, have a high performance and a lot of control. 
 
 I'm aiming to make simple games/tech demos using the [Simple DirectMedia Layer](https://www.libsdl.org/), and documenting the whole process. The reason behind that is because I really liked using some frameworks like [Love2D](https://love2d.org/), [Pygame](https://www.pygame.org/news), etc. And I really want to know more about the whole engineiring the game development process. 
 
