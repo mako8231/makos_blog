@@ -94,4 +94,4 @@ Of course I've skipped a lot of projects, ideas and I just gave a brief introduc
 
 I'm aiming to make simple games/tech demos using the [Simple DirectMedia Layer](https://www.libsdl.org/), and documenting the whole process. The reason behind that is because I really liked using some frameworks like [Love2D](https://love2d.org/), [Pygame](https://www.pygame.org/news), etc. And I really want to know more about the whole engineiring the game development process. 
 
-Some about some grammar crimes I might commited here... English is not my native language so this blog is also a way to improve my english writting as well XD.
+About about some grammar crimes I might commited here... English is not my native language so this blog is also a way to improve my english writting as well XD.
