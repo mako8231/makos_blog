@@ -75,8 +75,6 @@ Subsequently, I started using RPG Maker VX Ace, I did a lot of cringy stuff and 
 
 Everything went cold about game development until 2017~2018, the year that I discovered Godot... 
 
-[Picture about godot]
-
 In the meantime, I also studied pixel art. While digging around, I stumbled upon a Reimu artwork:
 
 !["Leimu :D"](https://cdn.discordapp.com/attachments/231829187776741377/518874607563046914/Captura_de_tela_de_2018-12-02_16.42.04.png)
